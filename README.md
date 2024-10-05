@@ -182,7 +182,7 @@ You can run the script continuously using a VPS or RDP. Use the screen applicati
 
 # Discussion
 
-If you have any questions or need further assistance, join : [@GN_SCRIPTS](https://t.me/+MCsnE9INs604YWJl)
+If you have any questions or need further assistance, join : [@GN_SCRIPTS](https://t.me/GN_SCRIPTS)
 
 ## Q&A
 
